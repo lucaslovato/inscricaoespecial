@@ -1,0 +1,154 @@
+{
+  "birthdateRequired": {
+    "title": "Data de nascimento faltando!",
+    "description": "Desculpe amigo, mas faltou a data de nascimento!",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "birthdateRequired"
+  },
+  "cpfRequired": {
+    "title": "CPF faltando!",
+    "description": "cpf ficou faltando para criar o participante",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "cpfRequired"
+  },
+  "rgRequired": {
+    "title": "RG faltando!",
+    "description": "RG ficou faltando para criar o participante",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "rgRequired"
+  },
+  "reasonRequired": {
+    "title": "motivo esta faltando!",
+    "description": "o motivo pelo qual o amigão está se matriculando ficou faltando para criar o participante",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "reasonRequired"
+  },
+  "phoneNumberRequired": {
+    "title": "telefone esta faltando!",
+    "description": "o telefone do bro ficou faltando para criar o participante",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "phoneNumberRequired"
+  },
+  "courseRequired": {
+    "title": "o curso esta faltando!",
+    "description": "o curso que o bro é formado ficou faltando para criar o participante",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "courseRequired"
+  },
+  "iesRequired": {
+    "title": "o IES esta faltando!",
+    "description": "a instituição de ensino superior ficou faltando para criar o participante",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "iesRequired"
+  },
+  "subjectRequired": {
+    "title": "a disciplina esta faltando!",
+    "description": "a disciplina que será cursada ficou faltando para criar o participante",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "subjectRequired"
+  },
+
+  "isForeign": {
+    "title": "É estrangeiro?!",
+    "description": "ficou faltando falar se o amigo é estrangeiro ou não",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "isForeign"
+  },
+  "subscriptionRequired": {
+    "title": "Uma inscrição é requerida",
+    "description": "faltou a inscrição que o participante irá participar",
+    "buttons": [
+      {
+        "label": "OK",
+        "method": null
+      }
+    ],
+    "type": "subscriptionRequired"
+  },
+  "subscriptionClosed": {
+    "title": "Processo seletivo fechado",
+    "description": "este processo seletivo atualmente encontra-se indisponível para inscrição",
+    "buttons": [
+      {
+        "label": "OK",
+        "method": null
+      }
+    ],
+    "type": "subscriptionClosed"
+  },
+  "base64SizeError": {
+    "title": "Arquivo Grande demais",
+    "description": "este arquivo possui mais que 10mb",
+    "buttons": [
+      {
+        "label": "OK",
+        "method": null
+      }
+    ]
+  },
+  "documentUpdateError": {
+    "title": "Erro no Upload do documento",
+    "description": "Houve um erro no banco na hora de upar o documento",
+    "buttons": [
+      {
+        "label": "OK",
+        "method": null
+      }
+    ]
+  },
+  "participantNotFound": {
+    "tilte": "Participante Não encontrado",
+    "description": "este participante não foi encontrado no banco de dados do sistema",
+    "buttons": [
+      {
+        "label": "OK",
+        "method": null
+      }
+    ]
+  }
+}

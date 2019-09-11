@@ -1,0 +1,69 @@
+{
+  "userNotFound": {
+    "title": "Email errado!",
+    "description": "Desculpe amigo, mas não encontrei esse email que você digitou nos meus registros.<br/> Não quero me meter na sua vida, mas você escreveu errado tá.",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "userNotFound"
+  },
+  "wrongPassword": {
+    "title": "Senha não confere!",
+    "description": "Então, seu email até está aqui nos meus registros, mas essa senha ai não está certa não,<br/> você esqueceu ou vacilou na digitação?",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "wrongPassword"
+  },
+  "nameRequired": {
+    "title": "Nome faltou!",
+    "description": "Então, esse nome ai não está certo não,<br/> você esqueceu ou vacilou na digitação?",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ],
+    "type": "nameRequired"
+  },
+  "surnameRequired":{
+    "title": "Sobrenome faltou!",
+    "description": "kk eae men, sobrenome ta faltando",
+    "buttons": [
+      {
+        "label": "Ok",
+        "method": null
+      }
+    ]
+  },
+  "emailRequired":{
+    "title": "email faltando",
+    "description": "faltou passar o email na hora de criar esse bro",
+    "buttons": [{
+      "label": "Ok",
+      "method": null
+    }]
+  },
+  "passwordRequired": {
+    "title": "Password faltando",
+    "description": "para criar um bro vc precisa inserir um password",
+    "buttons": [{
+      "label": "Ok",
+      "method": null
+    }]
+  },
+  "adminNotFound": {
+    "title": "Admin não encontrado",
+    "description": "esse admin não foi encontrado você está burlando o sistema",
+    "buttons": [{
+      "label": "OK",
+      "method": null
+    }]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "model": "participant",
+  "data": [
+    {
+      "_id": "5c12a92ae299d51b4a0c9de7",
+      "name": "Osvaldo",
+      "surname": "Migué",
+      "email": "osvaldo@osvaldo.com",
+      "password": "osvaldo",
+      "birthdate": "05/07/1994",
+      "cpf": "08775243946",
+      "rg": "5719301",
+      "reason": "texto sobre os motivos que levaram o candidato a se inscrever",
+      "phoneNumber": "023254675342",
+      "course": "2345678234567",
+      "ies": "UFSC",
+      "isForeign": false,
+      "isAffiliated": false,
+      "subject": "5c181ec5689826eb1c4ac0cb",
+      "subscription": "5c38c7eed7599d2bb2983fc5",
+      "document": {
+        "matrCertificate": "inscricaoespecial/server/documents/users/5c12a92ae299d51b4a0c9de7/matrCertificate.pdf",
+        "rgCpf": "inscricaoespecial/server/documents/users/5c12a92ae299d51b4a0c9de7/rgCpf.pdf"
+      }
+    }
+  ]
+}

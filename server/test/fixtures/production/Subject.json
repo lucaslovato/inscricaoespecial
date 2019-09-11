@@ -1,0 +1,30 @@
+{
+  "model": "subject",
+  "data": [
+    {
+      "_id": "5c12a92ae464e3e46aeb8b19",
+      "name": "Disciplina nro 1"
+    },
+    {
+      "_id": "5c12a92aeaaae3e46aeb8b19",
+      "name": "Disciplina removida",
+      "removed": true
+    },
+    {
+      "_id": "5c8970aa2447b77ccde22d1f",
+      "name": "Disciplina nro 2"
+    },
+    {
+      "_id": "5c8970aae7b4af1fedcdcbb7",
+      "name": "Disciplina nro 3"
+    },
+    {
+      "_id": "5c8970aa01e2a38d9ab7bd1f",
+      "name": "Disciplina nro 4"
+    },
+    {
+      "_id": "5c8970aa33fb1833abfe7d59",
+      "name": "Disciplina nro 5"
+    }
+  ]
+}

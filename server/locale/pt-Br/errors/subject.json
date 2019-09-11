@@ -1,0 +1,10 @@
+{
+  "nameRequired": {
+    "title": "Disciplina sem nome!",
+    "description": "ficou faltando o nome da disciplina para criar a mesma!",
+    "buttons": [{
+      "label": "Ok",
+      "method": null
+    }]
+  }
+}

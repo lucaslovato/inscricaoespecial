@@ -1,0 +1,50 @@
+{
+  "initDateRequired": {
+    "title": "inscrição sem data de inicio!",
+    "description": "ficou faltando a data de inicio da inscrição para criar a mesma!",
+    "buttons": [{
+      "label": "Ok",
+      "method": null
+    }]
+  },
+  "endDateRequired": {
+    "title": "inscrição sem data de término!",
+    "description": "ficou faltando a data de término da inscrição para criar a mesma!",
+    "buttons": [{
+      "label": "Ok",
+      "method": null
+    }]
+  },
+  "initHourRequired": {
+    "title": "inscrição sem hora de inicio!",
+    "description": "ficou faltando a hora de inicio da inscrição para criar a mesma!",
+    "buttons": [{
+      "label": "Ok",
+      "method": null
+    }]
+  },
+  "endHourRequired": {
+    "title": "inscrição sem hora de término!",
+    "description": "ficou faltando a hora de término da inscrição para criar a mesma!",
+    "buttons": [{
+      "label": "Ok",
+      "method": null
+    }]
+  },
+  "notFound": {
+    "title": "Essa inscrição não foi encontrada",
+    "description": "infelizmente esta inscrição não foi encontrada no sistema, foi mal pacero",
+    "buttons": [{
+      "label": "OK",
+      "method": null
+    }]
+  },
+  "data de inicio no passado": {
+    "title": "data de inicio no passado",
+    "description": "infelizmente esta data de inicio está passado, foi mal pacero",
+    "buttons": [{
+      "label": "OK",
+      "method": null
+    }]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": "admin",
+  "data": [
+    {
+      "_id": "59d418c0659c0ab8386f19e3",
+      "name": "Admin",
+      "surname": "Admin",
+      "email": "admin@admin.com",
+      "password": "admin"
+    }
+  ]
+}

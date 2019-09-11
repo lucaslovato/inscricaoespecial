@@ -1,0 +1,15 @@
+{
+  "model": "subscription_subject",
+  "data": [
+    {
+      "_id": "5c181ec5689826eb1c4ac0cb",
+      "subject": "5c12a92ae464e3e46aeb8b19",
+      "subscriber": ["5c12a92ae299d51b4a0c9de7"]
+    },
+    {
+      "_id": "5c181ec5689826eb1c4ac0bb",
+      "subject": "5c12a92aeaaae3e46aeb8b19",
+      "subscriber": []
+    }
+  ]
+}

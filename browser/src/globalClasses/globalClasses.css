@@ -1,0 +1,98 @@
+.normal-title {
+    background-color: #2a0845;
+    color: white
+}
+
+.is-danger {
+    color: #FF5252;
+    font-size: 12px;
+}
+
+.card-shape{
+    padding: 2em 25em;
+}
+.grey_color {
+    background-color: #f5f5f5;
+}
+
+.blue_color {
+    color: #2196f3;
+}
+
+.red_color_dialog_text {
+    color: #FF5252;
+    text-align: center;
+}
+
+.green_color_dialog_text {
+    color: #4CAF50;
+    text-align: center;
+}
+
+.green_color_snackbar_text {
+    color: #4CAF50;
+}
+
+.dialog-title {
+    background-color: #2a0845;
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+/*Loading Spinner 3 pontinhos*/
+.lds-ellipsis {
+    display: inline-block;
+    position: relative;
+    width: 64px;
+    height: 64px;
+}
+.lds-ellipsis div {
+    position: absolute;
+    top: 27px;
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background: #fff;
+    animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+.lds-ellipsis div:nth-child(1) {
+    left: 6px;
+    animation: lds-ellipsis1 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(2) {
+    left: 6px;
+    animation: lds-ellipsis2 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(3) {
+    left: 26px;
+    animation: lds-ellipsis2 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(4) {
+    left: 45px;
+    animation: lds-ellipsis3 0.6s infinite;
+}
+@keyframes lds-ellipsis1 {
+    0% {
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+@keyframes lds-ellipsis3 {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(0);
+    }
+}
+@keyframes lds-ellipsis2 {
+    0% {
+        transform: translate(0, 0);
+    }
+    100% {
+        transform: translate(19px, 0);
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "model": "subscription",
+  "data": [
+    {
+      "_id": "5c181ec548e88fb2af32d05e",
+      "initDate": "Tue Jan 28 2019 20:02:13 GMT-0300 (Brasilia Standard Time)",
+      "endDate": "Thu Jan 31 2019 23:59:50 GMT-0300 (Brasilia Standard Time)",
+      "subjects":["5c181ec5689826eb1c4ac0cb", "5c8970aa2447b77ccde22d1f", "5c8970aa33fb1833abfe7d59"],
+      "status": 1
+    },
+    {
+      "_id": "5c4a0d3e300786424acb6112",
+      "initDate": "Mon Jun 23 1980 15:05:24 GMT-0300 (Brasilia Standard Time)",
+      "endDate": "Thu Mar 23 1972 10:11:11 GMT-0300 (Brasilia Standard Time)",
+      "subjects":["5c181ec5689826eb1c4ac0cb", "5c8970aa2447b77ccde22d1f", "5c8970aa33fb1833abfe7d59"],
+      "status": 2
+    },
+    {
+      "_id": "5c4a0d3ec4b1539af070c67e",
+      "initDate": "Sun Nov 18 1973 13:36:57 GMT-0300 (Brasilia Standard Time)",
+      "endDate": "Tue Dec 24 1974 07:12:15 GMT-0300 (Brasilia Standard Time)",
+      "subjects":["5c181ec5689826eb1c4ac0cb", "5c8970aa2447b77ccde22d1f", "5c8970aa33fb1833abfe7d59"],
+      "status": 2
+    },
+    {
+      "_id": "5c913269bc43992ac8e6cf37",
+      "initDate": "Tue Mar 19 2019 13:00:00 GMT-0300 (Brasilia Standard Time)",
+      "endDate": "Mon Jul 15 2019 23:59:59 GMT-0300 (Brasilia Standard Time)",
+      "subjects":["5c181ec5689826eb1c4ac0cb", "5c8970aa2447b77ccde22d1f", "5c8970aa33fb1833abfe7d59"],
+      "status": 1
+    }
+  ]
+}

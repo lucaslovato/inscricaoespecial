@@ -1,0 +1,52 @@
+{
+  "name": "inscricaoespecial",
+  "version": "0.0.1",
+  "description": "Template para ser utilizado em plataformas que necessitarão de backend.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "typings install",
+    "dev": "node build/index.js --ENVIRONMENT dev",
+    "prod": "node build/index.js --ENVIRONMENT prod",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/xundas/backendtemplate/src/master/"
+  },
+  "keywords": [
+    "Template",
+    "nodeJS",
+    "Mongoose"
+  ],
+  "author": "XundaLabs",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/xundas/backendtemplate/src/master/",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.1",
+    "cron": "^1.6.0",
+    "eventemitter2": "^0.4.14",
+    "express": "^4.13.4",
+    "express-easy-zip": "^1.1.4",
+    "greenlock-express": "^2.1.6",
+    "http-status-codes": "^1.1.6",
+    "json2xls": "^0.1.2",
+    "mongoose": "^4.13.14",
+    "node": "0.0.0",
+    "node-uuid": "^1.4.8",
+    "socket.io": "^2.2.0",
+    "typescript": "2.3.4",
+    "typings": "^2.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^4.2.1",
+    "chai-json-schema": "^1.2.0",
+    "codeceptjs": "^2.0.4",
+    "docdash": "^0.4.0",
+    "jsdoc": "^3.4.0",
+    "mocha": "^5.2.0",
+    "protractor": "^5.4.2",
+    "socket.io-client": "^2.2.0"
+  }
+}

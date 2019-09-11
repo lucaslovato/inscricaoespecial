@@ -1,0 +1,1 @@
+export {schema as Address} from "./source/Address";

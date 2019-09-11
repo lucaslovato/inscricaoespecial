@@ -1,0 +1,20 @@
+{
+  "statics": [
+    {
+      "path": "/",
+      "location": "../frontendtemplate"
+    },
+    {
+      "path": "/images/",
+      "location": "resources/images/"
+    }
+  ],
+  "openEndpoints": [
+    "/api/open/"
+  ],
+  "openAPI": [
+    "/api/login",
+    "/api/locale",
+    "/favicon.ico"
+  ]
+}
