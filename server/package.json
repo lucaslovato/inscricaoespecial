@@ -22,11 +22,11 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/xundas/backendtemplate/src/master/",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.1",
     "cron": "^1.6.0",
     "eventemitter2": "^0.4.14",
-    "express": "^4.13.4",
+    "express": "^4.18.2",
     "express-easy-zip": "^1.1.4",
     "greenlock-express": "^2.1.6",
     "http-status-codes": "^1.1.6",
